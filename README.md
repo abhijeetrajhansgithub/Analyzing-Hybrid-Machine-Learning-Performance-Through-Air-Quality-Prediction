@@ -66,3 +66,12 @@ For questions or collaboration inquiries, please contact:
 **Abhijeet Rajhans**  
 Email: abhijeetrajhans.ar@gmail.com
 
+## License
+
+No license is provided with this repository.  
+All contents are © the authors and are protected under full copyright.
+
+The materials are shared for academic reference only.  
+Any reuse, modification, redistribution, or commercial use requires prior permission from the authors.  
+Please cite the original paper if you reference this work.
+
