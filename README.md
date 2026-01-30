@@ -1,7 +1,8 @@
 ## Project Description
 
-This research focuses on **[briefly describe the problem domain]**.  
-The primary objective is to analyze **[key goal]** using **[methods / models / tools]**, and to evaluate the results through empirical analysis.
+This research focuses on analyzing the performance of hybrid machine learning models using the Air Quality Index (AQI) dataset from New Delhi.  
+The primary objective is to evaluate and compare different hybrid and baseline model configurations, and to assess their effectiveness through empirical experimentation and result analysis.
+
 
 ---
 
