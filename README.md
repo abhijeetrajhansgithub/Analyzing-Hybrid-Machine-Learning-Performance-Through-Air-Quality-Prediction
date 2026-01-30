@@ -4,10 +4,15 @@ This research focuses on [briefly describe the problem domain].
 The objective is to analyze [key goal] using [methods/models/tools], and evaluate the results through empirical analysis.
 
 ├── data/            # Datasets used in the study (if shareable)
+
 ├── src/             # Source code for experiments and analysis
+
 ├── appendix/        # Appendix materials
+
 ├── figures/         # Plots and graphs used in the paper
+
 ├── paper/           # Final IEEE-accepted manuscript
+
 └── README.md
 
 ## Methodology
